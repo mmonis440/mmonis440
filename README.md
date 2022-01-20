@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mmonis440
 - 👀 I’m interested in cloud engineerng and data analytics
-- 🌱 I’m currently learning react and its other technology also blockchain and cryptocurrency language  solididty
+- 🌱 I’m currently learning java/j2EE and its framework like spring/springboot/spark and microservices and full java back0end stuff.
+- ♈️♈️ Going deep into java and backend technologies mysql/postgre sql and mongodb
 - 💞️ I’m looking to collaborate on startup whcih are AI and ML 
 - 📫 How to reach me ...EMAIL=mmonis440@gmail.com
 linkedin = mohammad monis
