@@ -4,7 +4,7 @@
 - ♈️♈️ Going deep into java and backend technologies mysql/postgre sql and mongodb
 - 💞️ I’m looking to collaborate on startup whcih are AI and ML 
 - 📫 How to reach me ...EMAIL=mmonis440@gmail.com
-linkedin = mohammad monis
+linkedin = mmonis440
 
 <!---
 mmonis440/mmonis440 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
